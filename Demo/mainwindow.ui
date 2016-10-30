@@ -11,7 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>YeelinkDemo</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="asset.qrc">
+    <normaloff>:/pic/logo.png</normaloff>:/pic/logo.png</iconset>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QGridLayout" name="gridLayout">
@@ -668,6 +672,8 @@ p, li { white-space: pre-wrap; }
   <widget class="QStatusBar" name="statusBar"/>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
- <resources/>
+ <resources>
+  <include location="asset.qrc"/>
+ </resources>
  <connections/>
 </ui>

@@ -19,3 +19,6 @@ HEADERS  += mainwindow.h \
     yeelinkapi_v1.h
 
 FORMS    += mainwindow.ui
+
+RESOURCES += \
+    asset.qrc
