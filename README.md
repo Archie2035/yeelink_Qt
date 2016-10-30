@@ -2,7 +2,9 @@
 这是一个使用Qt编写的Demo，用于使用yeelink提供的API接口在本地客户端与yeelink服务端进行交互。
 yeelink提供了6种类型的传感器供我们使用，其中除了微博类型外其余5种类型均在次项目中进行了尝试，每种传感器包含了上传数据和获取服务器最后数据的操作。</br>
 yeelink的api文档地址：[点击这里](http://www.yeelink.net/develop/api) </br>
-我的[设备地址](https://github.com/tianzhihen/yeelink_Qt/blob/master/img/website.png?raw=true)
+我的[设备地址](http://www.yeelink.net/devices/351739)
+</br>
+![](https://github.com/tianzhihen/yeelink_Qt/blob/master/img/website.png?raw=true)
 
 </br>
 *注*本人为智能家居爱好者，一直在业余时间致力于智能家居系统的调研与实践，与yeelink公司无任何利益相关。
